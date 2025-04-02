@@ -95,15 +95,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-<<<<<<< HEAD
   height: 100vh;
   padding: 100px 100px 140px 100px;
   margin: 0 auto;
-
-=======
-  padding: 100px 100px 140px 100px;
-  margin: 0 auto;
->>>>>>> f6f35c2 (Cambios del proyecto 3 etapa 2)
 }
 
 .staff__title {
@@ -118,11 +112,6 @@
   font-size: 20px;
   line-height: 30px;
   color: #fff;
-<<<<<<< HEAD
-  font-size: 20px;
-  line-height: 30px;
-=======
->>>>>>> f6f35c2 (Cambios del proyecto 3 etapa 2)
   margin: 0;
 }
 
@@ -152,22 +141,14 @@
   height: 100%;
 }
 
-<<<<<<< HEAD
-.card__title{
-=======
 .card__title {
->>>>>>> f6f35c2 (Cambios del proyecto 3 etapa 2)
   font-size: 20px;
   line-height: 30px;
   font-weight: 700;
   margin: 0;
 }
 
-<<<<<<< HEAD
-.card__text{
-=======
 .card__text {
->>>>>>> f6f35c2 (Cambios del proyecto 3 etapa 2)
   font-size: 16px;
   line-height: 24px;
   margin: 20px 0 0;
