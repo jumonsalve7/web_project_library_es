@@ -124,6 +124,7 @@
   list-style-type: none;
   justify-content: center;
   margin: 68px auto 0;
+
 }
 
 .card {
@@ -139,6 +140,7 @@
   display: flex;
   flex-direction: column;
   height: 100%;
+  width: 100%;
 }
 
 .card__title {
